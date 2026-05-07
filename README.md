@@ -1,5 +1,12 @@
-## Hi there 👋
+### About Me
 
+문제를 기술로 해결하는 과정을 즐기는 **AI 개발 지망 학생**입니다.
+사용자 입장에서 생각하며 문제를 끝까지 해결하려는 자세로 개발에 임하고 있습니다.
+
+### Stack
+
+프로그래밍 언어 : Python
+웹 개발 : HTML, CSS, React  native
 <!--
 **jing939/jing939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
