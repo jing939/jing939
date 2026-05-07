@@ -5,7 +5,7 @@
 
 ### Stack
 
-프로그래밍 언어 : Python n\
+프로그래밍 언어 : Python\
 웹 개발 : HTML, CSS, React  native
 <!--
 **jing939/jing939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
